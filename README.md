@@ -5,8 +5,7 @@ Ein kleines Minesweeper-Spiel in C# WinForms – Projekt aus der Höheren Fachsc
 
 Ein Mini-Spiel im klassischen Minesweeper-Stil – entwickelt im Rahmen meiner Ausbildung an der Höheren Fachschule Informatik.
 
-![Minesweeper-Spiel](https://github.com/user-attachments/assets/d44efd01-6367-44bb-b8c2-86c78b71a3e4)
-![Minesweeper-Spiel1](https://github.com/user-attachments/assets/69dec7af-dd94-4ca5-a85a-2d7a548260f0)
+
 
 
 ## 🚀 Features
@@ -22,7 +21,8 @@ Ein Mini-Spiel im klassischen Minesweeper-Stil – entwickelt im Rahmen meiner A
 - IDE: **Visual Studio 2022**
 
 ## 📸 Screenshot
-*(Hier kannst du später ein Bild vom Spiel einfügen)*
+![Minesweeper-Spiel](https://github.com/user-attachments/assets/d44efd01-6367-44bb-b8c2-86c78b71a3e4)
+![Minesweeper-Spiel1](https://github.com/user-attachments/assets/69dec7af-dd94-4ca5-a85a-2d7a548260f0)
 
 ## 📚 Was ich gelernt habe
 - Arbeit mit 2D-Arrays
