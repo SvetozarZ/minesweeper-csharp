@@ -24,6 +24,11 @@ Ein Mini-Spiel im klassischen Minesweeper-Stil – entwickelt im Rahmen meiner A
 ![Minesweeper-Spiel](https://github.com/user-attachments/assets/d44efd01-6367-44bb-b8c2-86c78b71a3e4)
 ![Minesweeper-Spiel1](https://github.com/user-attachments/assets/69dec7af-dd94-4ca5-a85a-2d7a548260f0)
 
+## 🖥️ Spiel starten (Windows-Nutzer)
+
+👉 [Hier klicken, um die EXE herunterzuladen](https://github.com/SvetozarZ/minesweeper-csharp/releases/latest)
+
+
 ## 📚 Was ich gelernt habe
 - Arbeit mit 2D-Arrays
 - Ereignisgesteuerte Programmierung (Event-Handling)
