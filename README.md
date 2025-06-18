@@ -13,7 +13,7 @@ Ein Mini-Spiel im klassischen Minesweeper-Stil – entwickelt im Rahmen meiner A
 - Zufällig platzierte Bomben
 - Lebenssystem
 - Timer & Score-Anzeige
-- Neustart-Button mit Smile-Icon
+- Neustart-Button
 
 ## 🛠️ Tech-Stack
 - Programmiersprache: **C#**
